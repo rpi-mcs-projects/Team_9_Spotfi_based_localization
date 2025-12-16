@@ -6,7 +6,9 @@ This project is about implementing the Spotfi (https://web.stanford.edu/~skatti/
 
 # Dataset
 To run these codes, it is essential to download the wildv2 dataset, then paste the dataset as folder 'wildv2' in the same directory as the codes.
-The reason why we didn't include dataset in this code is because the size is very heavy. We have uploaded a section of the data in Onedrive. You can also download the dataset from here: (https://rpiexchange-my.sharepoint.com/:f:/g/personal/bakhur_rpi_edu/IgDGUfWwZfU3RKbOp-7jRkulAf3am-KUwpIie9t4KYJfSyw?e=ade90e). You will need to unzip the file, and copy the "wildv2" folder in the same directory as the codes (If not you will need to specify the path inside the code). Please feel free to reach out to us if you are having issues with the code.
+The reason why we didn't include dataset in this code is because the size is very heavy. We have uploaded a section of the data in Onedrive. You can also download the dataset from here: 
+(https://rpiexchange-my.sharepoint.com/:f:/g/personal/bakhur_rpi_edu/IgDGUfWwZfU3RKbOp-7jRkulAf3am-KUwpIie9t4KYJfSyw?e=ade90e). 
+You will need to unzip the file, and copy the "wildv2" folder in the same directory as the codes (If not you will need to specify the path inside the code). Please feel free to reach out to us if you are having issues with the code.
 
 
 
