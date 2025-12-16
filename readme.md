@@ -1,4 +1,4 @@
-\## ECSE6560 - Spotfi based localization
+# ECSE6560 - Spotfi based localization
 
 
 
@@ -6,7 +6,7 @@ This project is about implementing the Spotfi (https://web.stanford.edu/~skatti/
 
 
 
-\# MATLAB files description
+# MATLAB files description
 
 * cdf\_fft.m
 
