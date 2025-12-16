@@ -1,8 +1,8 @@
-\# ECSE6560 - Spotfi based localization
+\## ECSE6560 - Spotfi based localization
 
 
 
-This project is about implementing the Spotfi algorithm on a publicly available wildv2 dataset (https://www.kaggle.com/competitions/wildv2/overview). To run these codes, downlad the wildv2 dataset, then paste the dataset as folder 'wildv2' in the same directory as the codes.
+This project is about implementing the Spotfi (https://web.stanford.edu/~skatti/pubs/sigcomm15-spotfi.pdf) algorithm on a publicly available wildv2 dataset (https://www.kaggle.com/competitions/wildv2/overview). To run these codes, downlad the wildv2 dataset, then paste the dataset as folder 'wildv2' in the same directory as the codes.
 
 
 
@@ -10,7 +10,7 @@ This project is about implementing the Spotfi algorithm on a publicly available 
 
 * cdf\_fft.m
 
-Run this code to plot the CDF for a range of user locations using FFT algorithm. The number of user locations and number of wifi APs to use can be selected. 
+Run this code to plot the CDF for a range of user locations using FFT algorithm. The number of user locations and number of wifi APs to use can be selected.
 
 * cdf\_music.m
 
@@ -30,7 +30,5 @@ This is a helper function to load the wildv2 dataset which is in h5 format. It c
 
 * plot\_localization\_scenario.m
 
-This is also a helper function to plot the number of wifi APs and the user location. 
-
-
+This is also a helper function to plot the number of wifi APs and the user location.
 
