@@ -1,0 +1,11 @@
+# temp files
+
+*.log
+*.tmp
+*.temp
+*.asv
+
+# data files
+
+wildv2/
+
